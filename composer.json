@@ -1,0 +1,13 @@
+{
+    "require": {
+        "shuchkin/simplexlsx": "^1.0"
+    },
+    "autoload" : {
+      "psr-4": {
+        "app\\ParserUsadeb\\": "app"
+      }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.4"
+    }
+}
